@@ -1,2 +1,2 @@
-# manifesto
-public declaration
+# What did I learn today
+
